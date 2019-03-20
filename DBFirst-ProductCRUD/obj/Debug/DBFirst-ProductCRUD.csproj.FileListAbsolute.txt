@@ -1,0 +1,15 @@
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\DBFirst-ProductCRUD.exe.config
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\DBFirst-ProductCRUD.exe
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\DBFirst-ProductCRUD.pdb
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\EntityFramework.dll
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\EntityFramework.SqlServer.dll
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\EntityFramework.xml
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\bin\Debug\EntityFramework.SqlServer.xml
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst_ProductCRUD.Form1.resources
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst_ProductCRUD.Properties.Resources.resources
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst-ProductCRUD.csproj.GenerateResource.cache
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst-ProductCRUD.csproj.CoreCompileInputs.cache
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst-ProductCRUD.csproj.CopyComplete
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst-ProductCRUD.exe
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst-ProductCRUD.pdb
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-ProductCRUD\obj\Debug\DBFirst-ProductCRUD.csprojAssemblyReference.cache

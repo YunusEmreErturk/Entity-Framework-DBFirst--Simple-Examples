@@ -1,0 +1,15 @@
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\bin\Debug\DBFirst-CategoryList.exe.config
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\bin\Debug\DBFirst-CategoryList.exe
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\bin\Debug\DBFirst-CategoryList.pdb
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\bin\Debug\EntityFramework.dll
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\bin\Debug\EntityFramework.SqlServer.dll
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\bin\Debug\EntityFramework.xml
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\bin\Debug\EntityFramework.SqlServer.xml
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\obj\Debug\DBFirst-CategoryList.csprojAssemblyReference.cache
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\obj\Debug\DBFirst_CategoryList.Form1.resources
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\obj\Debug\DBFirst_CategoryList.Properties.Resources.resources
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\obj\Debug\DBFirst-CategoryList.csproj.GenerateResource.cache
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\obj\Debug\DBFirst-CategoryList.csproj.CoreCompileInputs.cache
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\obj\Debug\DBFirst-CategoryList.csproj.CopyComplete
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\obj\Debug\DBFirst-CategoryList.exe
+D:\Egitim_46._Gun\NT-DBFirst\DBFirst-CategoryList\obj\Debug\DBFirst-CategoryList.pdb
